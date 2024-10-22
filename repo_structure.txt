@@ -1,4 +1,14 @@
 ├── Advanced_Projects
+│   ├── CryptoTracker
+│   │   ├── public
+│   │   ├── src
+│   │   │   ├── api
+│   │   │   ├── assets
+│   │   │   ├── components
+│   │   │   │   ├── CoinsCharts
+│   │   │   │   ├── CoinsTable
+│   │   │   │   └── Header
+│   │   │   └── utils
 │   ├── EDUHELPER
 │   ├── EdgeLock-X
 │   │   ├── faces
