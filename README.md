@@ -214,13 +214,37 @@ We extend our profound appreciation for your invaluable contributions to our pro
 
 Each line of code, every insightful suggestion, and all the meticulous documentation provided have been essential to our collective success. 💻  We recognize and celebrate the passion and expertise you bring to this endeavor.
 
-<div align="center">
-<a href="https://github.com/UTSAVS26/PyVerse/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=UTSAVS26/PyVerse" />
-</a>
+<p align="center">
+    <img src="https://api.vaunt.dev/v1/github/entities/UTSAVS26/repositories/PyVerse/contributors?format=svg&limit=54" width="700" height="250" />
+</p>
+
+
+🔗🌟 **Check out even more amazing contributors who made this project possible!** 👉 [Explore the full list of contributors on GitHub](https://github.com/UTSAVS26/PyVerse/graphs/contributors) 💪💻👩‍💻👨‍💻
+
+
+
+## Stargazers ❤️
+
+<div align='left'>
+
+[![Stargazers repo roster for @UTSAVS26/PyVerse](https://reporoster.com/stars/dark/UTSAVS26/PyVerse)](https://github.com/UTSAVS26/PyVerse/stargazers)
+
+
 </div>
 
----
+## Forkers ❤️
+
+
+[![Forkers repo roster for @UTSAVS26/PyVerse](https://reporoster.com/forks/dark/UTSAVS26/PyVerse)](https://github.com/UTSAVS26/PyVerse/network/members)
+
+
+
+
+<img src="https://raw.githubusercontent.com/alo7lika/PyVerse/refs/heads/main/Images/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+
+
+
 
 ## ❤️ **Show Some Love**
 
